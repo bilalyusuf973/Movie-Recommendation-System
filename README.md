@@ -11,5 +11,5 @@ personalized and relevant suggestions.
 Used the Cosine Similarity algorithm to find similarities among all other
 movies.  
 
-The system uses collaborative filtering and content-based filtering to
-suggest movies tailored to each user’s unique preferences
+The system uses content-based filtering to
+suggest movies tailored to each user’s unique preferences.
