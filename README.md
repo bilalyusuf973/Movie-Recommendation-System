@@ -1,15 +1,7 @@
 # Movie-Recommendation-System
 
-Developed a highly accurate and efficient movie recommendation
-system utilizing Machine Learning algorithms and Data Analysis
-techniques.  
+A movie recommendation system is a software application that uses algorithms to recommend movies to users based on their preferences. A movie recommendation system aims to help users find movies they are likely to enjoy. 
 
-The system utilizes a large database of movie metadata, including user
-ratings, movie genres, and production details, to deliver highly
-personalized and relevant suggestions.  
+Used the Cosine Similarity to find similarities among all other movies.  
 
-Used the Cosine Similarity algorithm to find similarities among all other
-movies.  
-
-The system uses content-based filtering to
-suggest movies tailored to each user’s unique preferences.
+The system uses content-based filtering to suggest movies tailored to each user’s unique preferences.
